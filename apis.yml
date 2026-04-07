@@ -11,10 +11,10 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - API Gateway
-  - Open Source
   - Go
   - Linux Foundation
   - Microservices
+  - Open Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/lura-project/refs/heads/main/apis.yml
 created: '2026-03-16'
@@ -34,8 +34,8 @@ apis:
     baseURL: https://github.com/luraproject/lura
     tags:
       - API Gateway
-      - Go
       - Framework
+      - Go
       - Open Source
     properties:
       - type: Documentation
