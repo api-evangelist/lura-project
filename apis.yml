@@ -40,11 +40,11 @@ apis:
     properties:
       - type: Documentation
         url: https://luraproject.org/docs/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://luraproject.org/docs/
       - type: GitHubRepository
         url: https://github.com/luraproject/lura
-      - type: Change Log
+      - type: ChangeLog
         url: https://github.com/luraproject/lura/releases
       - type: Client Libraries
         url: https://pkg.go.dev/github.com/luraproject/lura
@@ -55,9 +55,9 @@ common:
     url: https://luraproject.org/docs/
   - type: GitHubRepository
     url: https://github.com/luraproject/lura
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/luraproject
-  - type: Change Log
+  - type: ChangeLog
     url: https://github.com/luraproject/lura/releases
   - type: Community
     url: https://luraproject.org/community/
