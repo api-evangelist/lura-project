@@ -49,6 +49,8 @@ apis:
       - type: Client Libraries
         url: https://pkg.go.dev/github.com/luraproject/lura
 common:
+  - type: DomainSecurity
+    url: security/lura-project-domain-security.yml
   - type: Website
     url: https://luraproject.org/
   - type: Documentation
