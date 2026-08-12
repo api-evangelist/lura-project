@@ -61,6 +61,12 @@ apis:
       - type: Client Libraries
         url: https://pkg.go.dev/github.com/luraproject/lura
 common:
+  - type: SecurityPolicy
+    url: https://github.com/luraproject/lura/blob/master/SECURITY.md
+  - type: CodeOfConduct
+    url: https://github.com/luraproject/lura/blob/master/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/luraproject/lura/blob/master/CONTRIBUTING.md
   - type: DomainSecurity
     url: security/lura-project-domain-security.yml
   - type: Website
