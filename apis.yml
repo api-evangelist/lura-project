@@ -26,6 +26,12 @@ tags:
   - Go
   - Linux Foundation
   - Microservices
+  - Open-Source
+tags_raw:
+  - API Gateway
+  - Go
+  - Linux Foundation
+  - Microservices
   - Open Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/lura-project/refs/heads/main/apis.yml
@@ -45,6 +51,11 @@ apis:
     humanURL: https://luraproject.org/
     baseURL: https://github.com/luraproject/lura
     tags:
+      - API Gateway
+      - Framework
+      - Go
+      - Open-Source
+    tags_raw:
       - API Gateway
       - Framework
       - Go
