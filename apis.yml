@@ -4,14 +4,17 @@ description: The Lura Project is an open-source, ultra-high-performance API Gate
 type: Index
 deliveryModel:
   model: unknown
+  license_evidence:
+    not_product:
+    - luraproject/lura
   open_source: unknown
   commercial: false
   callable_host: false
   label: Delivery model not determined — needs a product licence on record
   confidence: low
   source:
-  - repository-unlicensed
-  generated: '2026-08-28'
+  - repository-not-product
+  generated: '2026-09-25'
   method: derived
 accessModel:
   pricing: freemium
@@ -31,13 +34,14 @@ tags:
 - Go
 - Linux Foundation
 - Microservices
-- Open-Source
+- Open Source
 tags_raw:
 - API Gateway
 - Go
 - Linux Foundation
 - Microservices
 - Open Source
+- Open-Source
 url: https://raw.githubusercontent.com/api-evangelist/lura-project/refs/heads/main/apis.yml
 created: '2026-03-16'
 modified: '2026-03-18'
@@ -52,12 +56,13 @@ apis:
   - API Gateway
   - Framework
   - Go
-  - Open-Source
+  - Open Source
   tags_raw:
   - API Gateway
   - Framework
   - Go
   - Open Source
+  - Open-Source
   properties:
   - type: Documentation
     url: https://luraproject.org/docs/
@@ -75,10 +80,11 @@ apis:
   humanURL: https://luraproject.org/
   tags:
   - API Gateway
-  - Open-Source
+  - Open Source
   tags_raw:
   - API Gateway
   - Open Source
+  - Open-Source
   properties:
   - type: Documentation
     url: https://luraproject.org/docs/overview/
