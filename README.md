@@ -1,4 +1,4 @@
-# Lura Project (lura-project)
+# Lura Project
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,55 +66,103 @@
 
 The Lura Project is an open-source, ultra-high-performance API Gateway framework hosted under the Linux Foundation. Originally known as the KrakenD framework, it provides an extendable, stateless middleware layer for building API gateways that aggregate multiple backend microservice responses into single endpoints, supporting HTTP/HTTPS, response transformation, filtering, and plugin-based extensibility via Go.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/lura-project/refs/heads/main/apis.yml)
+**Areas:** API Gateway · Go · Linux Foundation · Microservices · Open Source
 
-## Scope
+## Lura Project on APIs.io
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+Everything profiled for Lura Project is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lura-project/](https://apis.io/providers/lura-project/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (2)
 
- - API Gateway, Open Source, Go, Linux Foundation, Microservices
+- [Lura Framework](https://apis.io/apis/lura-project/lura-framework/) — The Lura Framework is an open-source Go library for building ultra-high-performance API gateways with middleware support. It provides core packages for…
+- [Lura Project](https://apis.io/apis/lura-project/lura/) — Lura Project is an open source framework for building ultra-performant API gateways with middlewares.
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-16 
-- **Modified:** 2026-03-18 
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### Lura Framework
-The Lura Framework is an open-source Go library for building ultra-high-performance API gateways with middleware support. It provides core packages for configuration, routing, proxying, logging, plugin management, encoding, and service discovery, enabling developers to aggregate multiple backend microservice calls into single unified endpoints with response filtering and transformation.
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://luraproject.org/](https://luraproject.org/)
+- [Lura Project Domain Security](https://apis.io/security/lura-project/lura-project-domain-security/)
 
+#### Plans and pricing (1)
 
-#### Tags:
+Published plans, tiers and prices.
 
- - API Gateway, Go, Framework, Open Source
+- [Lura Project Plans Pricing](https://apis.io/plans/lura-project/lura-project-plans-pricing/)
 
-#### Properties
+#### Rate limits (1)
 
-- [Documentation](https://luraproject.org/docs/)
-- [Getting Started](https://luraproject.org/docs/)
-- [GitHubRepository](https://github.com/luraproject/lura)
-- [Change Log](https://github.com/luraproject/lura/releases)
-- [Client Libraries](https://pkg.go.dev/github.com/luraproject/lura)
+Published request limits.
 
-## Common Properties
+- [Lura Project Rate Limits](https://apis.io/rate-limits/lura-project/lura-project-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Lura Project Finops](https://apis.io/finops/lura-project/lura-project-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://luraproject.org/)
 - [Documentation](https://luraproject.org/docs/)
-- [GitHubRepository](https://github.com/luraproject/lura)
-- [GitHub Organization](https://github.com/luraproject)
-- [Change Log](https://github.com/luraproject/lura/releases)
-- [Community](https://luraproject.org/community/)
-- [Issue Tracker](https://github.com/luraproject/lura/issues)
+- [Changelog](https://github.com/luraproject/lura/releases)
+- [GitHub](https://github.com/luraproject)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 15.5** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 36.8 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lura-project/](https://apis.io/providers/lura-project/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Lura Project: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lura-project/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
